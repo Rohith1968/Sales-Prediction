@@ -96,7 +96,7 @@ The dataset contains several features that help in making accurate sales predict
 ---
 
 ## 🛠️ Project Structure
-Machine-Learning-Sales-Prediction/ │ ├── data/ │ ├── dataset1.csv # Sales data │ ├── dataset2.csv # Store information │ ├── dataset3.csv # Promotional data │ ├── models/ │ ├── gradient_boosting_model.pkl # Trained Gradient Boosting model │ ├── random_forest_model.pkl # Trained Random Forest model │ ├── xgboost_model.pkl # Trained XGBoost model │ ├── scripts/ │ ├── data_preprocessing.py # Data cleaning and preprocessing │ ├── model_training.py # Model training script │ ├── model_evaluation.py # Evaluation of models │ ├── README.md # Project documentation ├── requirements.txt # List of dependencies └── .gitignore # Git ignore file
+Machine-Learning-Sales-Prediction
 
 
 ## ⚙️ Installation Instructions
